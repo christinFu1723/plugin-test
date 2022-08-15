@@ -1,6 +1,6 @@
 {
   "name": "plugin-test",
-  "main": "./plugin/index.js",
+  "main": "/plugin/index.js",
   "version": "0.1.0",
   "private": true,
   "scripts": {
