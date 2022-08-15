@@ -1,6 +1,6 @@
 {
   "name": "plugin-test",
-  "main": "lib/plugin-test.common.js",
+  "main": "lib/plugin-test.umd.js",
   "version": "0.1.2",
   "private": true,
   "scripts": {
